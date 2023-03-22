@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moezabdelkefi" alt="moezabdelkefi" /></a> </p>
 
+- 🌱 I’m currently studing **at Holberton school**
+
 - 📫 How to reach me **moezabdelkefi17@gmail.com**
 
 - ⚡ Fun fact **I think im funny**
