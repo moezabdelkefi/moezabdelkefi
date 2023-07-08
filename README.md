@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moez Abdelkefi</h1>
 <h3 align="center">A passionate developer from tunisia</h3>
 
-
 <img align="center" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
