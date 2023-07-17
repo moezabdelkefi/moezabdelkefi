@@ -27,7 +27,7 @@
 | Pig                | Implement a simple dice game in Python           | [Link to Project 2](https://github.com/moezabdelkefi/python_projects/blob/main/Pig.py) |
 | Qrcode             | create a Qrcode based on the user link           | [Link to Project 3](https://github.com/moezabdelkefi/python_projects/blob/main/Qrcode.py)           |
 |Timed_Math_Challenge| Add a Python math quiz game                      | [Link to Project 4](https://github.com/moezabdelkefi/python_projects/blob/main/Timed_Math_Challenge.py) |
-|anime_recommendation| anime recommendation based on user mood          | [Link to Project 5]((https://github.com/moezabdelkefi/python_projects/blob/main/anime_recommendation.py)) |
+|anime_recommendation| anime recommendation based on user mood          | [Link to Project 5](https://github.com/moezabdelkefi/python_projects/blob/main/anime_recommendation.py) |
 |clock               | Add time script for displaying current time      | [Link to Project 6](https://github.com/moezabdelkefi/python_projects/blob/main/clock.py) |
 
 
