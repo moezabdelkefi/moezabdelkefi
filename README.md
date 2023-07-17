@@ -23,7 +23,7 @@
 
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
-| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](Madlibs/)   |
+| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py)   |
 | Pig                | Implement a simple dice game in Python           | [Link to Project 2](project_2/) |
 | Qrcode             | create a Qrcode based on the user link           | [Link to Project 3](project_3/) |
 |Timed_Math_Challenge| Add a Python math quiz game                      | ...                             |
