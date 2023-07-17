@@ -21,6 +21,7 @@
 
 <h2 align="center">Python Projects</h2><p align="center">
 
+<p align="center">
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
 | Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py)   |
