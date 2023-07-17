@@ -35,7 +35,7 @@
 
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
-| Nikez Store        | Create a full E-commerce website for nike shoes | [Link](https://github.com/s4iTen/PFA_Project/tree/Moez)   |
+| Nikez Store        | A full e-commerce website for Nike shoes with a 3D model that can be customized by the user | [Link](https://github.com/s4iTen/PFA_Project/tree/Moez)   |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moezabdelkefi&show_icons=true&locale=en&layout=compact" alt="moezabdelkefi" /></p>
 
