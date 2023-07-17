@@ -71,7 +71,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moezabdelkefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moezabdelkefi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moez abdelkefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moez abdelkefi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moez-abdelkefi-867235265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moez abdelkefi" height="30" width="40" /></a>
 <a href="https://fb.com/moez abdelkefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moez abdelkefi" height="30" width="40" /></a>
 <a href="https://instagram.com/moezabdelkefi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moezabdelkefi96" height="30" width="40" /></a>
 </p>
