@@ -30,6 +30,13 @@
 |anime_recommendation| anime recommendation based on user mood          | [Link to Project 5](https://github.com/moezabdelkefi/python_projects/blob/main/anime_recommendation.py) |
 |clock               | Add time script for displaying current time      | [Link to Project 6](https://github.com/moezabdelkefi/python_projects/blob/main/clock.py) |
 
+
+
+
+| Project Name       | Description                                      | Link                            |
+|--------------------|------------------------------------------------- |---------------------------------|
+| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py)   |
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moezabdelkefi&show_icons=true&locale=en&layout=compact" alt="moezabdelkefi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moezabdelkefi&show_icons=true&locale=en" alt="moezabdelkefi" /></p>
