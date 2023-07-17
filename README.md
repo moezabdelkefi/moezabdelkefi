@@ -32,3 +32,11 @@
 <a href="https://fb.com/moez abdelkefi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moez abdelkefi" height="30" width="40" /></a>
 <a href="https://instagram.com/moezabdelkefi96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moezabdelkefi96" height="30" width="40" /></a>
 </p>
+
+
+| Project Name       | Description                       | Link                            |
+|--------------------|-----------------------------------|---------------------------------|
+| Project 1          | Description of project 1          | [Link to Project 1](project_1/) |
+| Project 2          | Description of project 2          | [Link to Project 2](project_2/) |
+| Project 3          | Description of project 3          | [Link to Project 3](project_3/) |
+| ...                | ...                               | ...                             |
