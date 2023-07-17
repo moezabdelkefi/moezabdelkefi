@@ -23,11 +23,12 @@
 
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
-| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](project_1/) |
+| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](Madlibs/)   |
 | Pig                | Implement a simple dice game in Python           | [Link to Project 2](project_2/) |
 | Qrcode             | create a Qrcode based on the user link           | [Link to Project 3](project_3/) |
 |Timed_Math_Challenge| Add a Python math quiz game                      | ...                             |
-
+|anime_recommendation| anime recommendation based on user mood          | [Link to Project 3](project_3/) |
+|clock               | Add time script for displaying current time      | [Link to Project 3](project_3/) |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moezabdelkefi&show_icons=true&locale=en&layout=compact" alt="moezabdelkefi" /></p>
 
