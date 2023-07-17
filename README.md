@@ -31,11 +31,11 @@
 |clock               | Add time script for displaying current time      | [Link to Project 6](https://github.com/moezabdelkefi/python_projects/blob/main/clock.py) |
 
 
-
+<h2>React Projects</h2>
 
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
-| Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py)   |
+| Nikez Store        | Create a full E-commerce website for nike shoes | [Link to Project 1]([https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py](https://github.com/s4iTen/PFA_Project/tree/Moez))   |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moezabdelkefi&show_icons=true&locale=en&layout=compact" alt="moezabdelkefi" /></p>
 
