@@ -21,7 +21,7 @@
 
 <h2 align="center">Python Projects</h2><p align="center">
 
-<p align="center">
+
 | Project Name       | Description                                      | Link                            |
 |--------------------|------------------------------------------------- |---------------------------------|
 | Madlibs            | Add code for reading a story and replacing words | [Link to Project 1](https://github.com/moezabdelkefi/python_projects/blob/main/Madlibs.py)   |
@@ -30,7 +30,6 @@
 |Timed_Math_Challenge| Add a Python math quiz game                      | [Link to Project 4](https://github.com/moezabdelkefi/python_projects/blob/main/Timed_Math_Challenge.py) |
 |anime_recommendation| anime recommendation based on user mood          | [Link to Project 5](https://github.com/moezabdelkefi/python_projects/blob/main/anime_recommendation.py) |
 |clock               | Add time script for displaying current time      | [Link to Project 6](https://github.com/moezabdelkefi/python_projects/blob/main/clock.py) |
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moezabdelkefi&show_icons=true&locale=en&layout=compact" alt="moezabdelkefi" /></p>
 
